@@ -33,7 +33,7 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: "Just Another Text Editor",
-        short_name: "J.A.T.E.",
+        short_name: "JATE",
         description: "Offline text editor using IndexedDB",
         background_color: "#1e508e",
         theme_color: "#1e508e",
